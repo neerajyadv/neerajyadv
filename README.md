@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @neerajyadv
 - 👀 I’m interested in flutter mobile app development.
 - 🌱 I’m currently learning dart and flutter.
-- 💞️ I’m looking to collaborate on flutter mobile apps
 
 <!---
 neerajyadv/neerajyadv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
